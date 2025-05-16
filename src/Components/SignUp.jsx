@@ -4,7 +4,7 @@ export default function SignUp() {
   const navigate = useNavigate();
 
   const handleProject = () => {
-    navigate("/project");
+    navigate("/dashboard");
   };
 
   return (
